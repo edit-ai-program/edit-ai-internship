@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Rishitha Mantri
-img: /editai_internship/assets/img/Rishitha_Mantri_2025.jpg
+img: /edit-ai-internship/assets/img/Rishitha_Mantri_2025.jpg
 profile:
   align: right
   image: Rishitha_Mantri_2025.jpg

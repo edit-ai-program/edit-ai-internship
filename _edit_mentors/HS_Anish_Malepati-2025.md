@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Anish Malepati
-img: /editai_internship/assets/img/Anish_Malepati.png
+img: /edit-ai-internship/assets/img/Anish_Malepati.png
 profile:
   align: right
   image: Anish_Malepati.png

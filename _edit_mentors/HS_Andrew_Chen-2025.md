@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Andrew Chen
-img: /editai_internship/assets/img/Andrew_Chen_2025.jpg
+img: /edit-ai-internship/assets/img/Andrew_Chen_2025.jpg
 profile:
   align: right
   image: Andrew_Chen_2025.jpg

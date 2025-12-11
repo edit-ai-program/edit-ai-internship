@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Aneesh Kalla
-img: /editai_internship/assets/img/Aneesh_Kalla_2025.jpg
+img: /edit-ai-internship/assets/img/Aneesh_Kalla_2025.jpg
 profile:
   align: right
   image: Aneesh_Kalla_2025.jpg

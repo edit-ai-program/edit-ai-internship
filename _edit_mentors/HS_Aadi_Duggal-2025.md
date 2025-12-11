@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Aadi Duggal
-img: /editai_internship/assets/img/Aadi_Duggal.jpeg
+img: /edit-ai-internship/assets/img/Aadi_Duggal.jpeg
 
 profile:
   align: right

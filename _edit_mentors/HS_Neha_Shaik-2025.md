@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Neha Shaik
-img: /editai_internship/assets/img/Neha_Shaik_2025.png
+img: /edit-ai-internship/assets/img/Neha_Shaik_2025.png
 profile:
   align: right
   image: Neha_Shaik_2025.png

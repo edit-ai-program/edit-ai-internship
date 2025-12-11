@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Tanay Panja
-img: /editai_internship/assets/img/Tanay_Panja.JPG
+img: /edit-ai-internship/assets/img/Tanay_Panja.JPG
 profile:
   align: right
   image: Tanay_Panja.JPG

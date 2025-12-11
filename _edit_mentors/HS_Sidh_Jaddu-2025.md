@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Sidh Jaddu
-img: /editai_internship/assets/img/Sidh_Jaddu.jpg
+img: /edit-ai-internship/assets/img/Sidh_Jaddu.jpg
 profile:
   align: right
   image: Sidh_Jaddu.jpg

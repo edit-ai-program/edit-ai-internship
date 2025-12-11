@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Leah Zhang
-img: /editai_internship/assets/img/Leah_Zhang.png
+img: /edit-ai-internship/assets/img/Leah_Zhang.png
 profile:
   align: right
   image: Leah_Zhang.png

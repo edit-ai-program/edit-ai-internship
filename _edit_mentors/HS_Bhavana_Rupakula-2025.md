@@ -1,7 +1,7 @@
 ---
 layout: people
 title: Bhavana Rupakula
-img: /editai_internship/assets/img/blank_profile.png
+img: /edit-ai-internship/assets/img/blank_profile.png
 profile:
   align: right
   image: blank_profile.png
