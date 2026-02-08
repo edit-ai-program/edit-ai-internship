@@ -41,7 +41,7 @@ If you are interested in this opportunity, please fill out the internship applic
 
 If you have any follow up questions, please feel free to reach out by email to: 
 <ul>
-  <li> EDIT AI coordinators Ben Mattern (benjamin.b.mattern.28@dartmouth.edu) and Moses Addai (moses.odei.addai.gr@dartmouth.edu). </li>
+  <li> EDIT AI coordinator Ben Mattern (benjamin.b.mattern.28@dartmouth.edu) </li>
   <li> Please cc' Dr. Louis Vaickus at louis.j.vaickus@hitchcock.org, Dr. Matthew Hayden at matthew.s.hayden@dartmouth.edu, and Dr. Joshua Levy at joshua.j.levy@dartmouth.edu or joshua.levy@cshs.org. </li>
 </ul>
 
@@ -54,22 +54,24 @@ Please note we are developing a new website with an updated application portal.
 **Timeline:**
 <ul>
   <li>2/10-4/22: interviews are conducted.</li>
+  <li>3/1: latest day to submit an application</li>
   <li>3/27: Early applicant decisions</li>
   <li>4/15-4/22: Final decisions</li>
-  <li>4/15: latest day to submit an application</li>
   <li>4/15-6/15: Onboarding</li>
 </ul>
 
-**Timeline:** Applicants will be interviewed for the position during Winter 2024 and preparation for the Summer internship is expected to take place during or before Spring 2025. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
+**Timeline:** Applicants will be interviewed for the position during Winter 2026 and preparation for the Summer internship is expected to take place during or before Spring 2026. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
 
 
 
-## EDIT ML Summer Program Flyers
+<!-- ## EDIT ML Summer Program Flyers
 <div class="row">
+
   <div class="column">
-    <img src="../assets/img/22_student_summer.jpg" width="100%">
+    <img src="../assets/img/2026_High School_Program_Flyer.pdf" width="100%">
   </div>
+
   <div class="column">
     <img src="../assets/img/22_general_summer.jpg" width="100%">
   </div>
-</div>
+</div> -->
