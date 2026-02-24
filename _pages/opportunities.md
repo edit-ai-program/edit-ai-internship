@@ -35,7 +35,7 @@ Through a blend of project-based work, seminars, and guided research, interns de
 *Scholarship Awards:* Numerous students have earned scholarships based on their achievements and innovations during the internship.
 
 
- Included here is a small representative list of the dozens of projects in development in the EDIT ML group: [Projects](https://jlevy44.github.io/edit-ai-internship/projects/).  
+ Included here is a small representative list of the dozens of projects that have been worked on in the program: [Projects](https://jlevy44.github.io/EDIT_AI_Virtual_Conference_25/presenters.html)  
 
 If you are interested in this opportunity, please fill out the internship application form below.
 
@@ -64,14 +64,13 @@ Please note we are developing a new website with an updated application portal.
 
 
 
-<!-- ## EDIT ML Summer Program Flyers
+## EDIT ML Summer Program Flyer
 <div class="row">
 
-  <div class="column">
-    <img src="../assets/img/2026_High School_Program_Flyer.pdf" width="100%">
-  </div>
+<iframe width="100%" height="800" src="../assets/pdf/2026_High School_Program_Flyer.pdf"></iframe>
 
-  <div class="column">
-    <img src="../assets/img/22_general_summer.jpg" width="100%">
-  </div>
-</div> -->
+  <!-- <div class="column">
+    <img src="../assets/pdf/2026_High School_Program_Flyer.pdf" width="100%">
+  </div> -->
+
+
