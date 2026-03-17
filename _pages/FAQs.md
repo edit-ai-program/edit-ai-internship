@@ -45,8 +45,15 @@ _A: ._ -->
 **Q: Can I participate in the standalone lab research without doing the summer internship?**  
 _A: No, students are invited to do their research post summer intership based on their performance during the program, including likelihood of publication and time available._
 
-
 ---
+
+## Project Submission
+
+**Q: I have a finished project/abstract/poster that I want to sumbit somewhere (ex: USCAP), what do I do?**  
+_A: To submit a project of yours from the EDIT program, it needs to be reviewed by program staf first. If this sounds like you, email benjamin.b.mattern.28@dartmouth.edu, cc'ing joshua.J.Levy@dartmouth.edu, and you will receive a google form to fill out. If approved, you will receive a seperate travel assistance form where you may be able to obtain funding for travel as well._
+
+
+
 
 <!--## Other topics
 
@@ -67,9 +74,9 @@ _A: We will update the [News](http://https://Ben-M-7.github.io/edit-ai-internshi
 
 ---
 
-If you don’t find the answer to your question here, please don’t hesitate to contact us at benjamin.b.mattern.28@dartmouth.edu , or moses.odei.addai.gr@dartmouth.edu directly.
+If you don’t find the answer to your question here, please don’t hesitate to contact us at benjamin.b.mattern.28@dartmouth.edu.
 
 ---
 
-*Page last updated on: [12/19/2024]*
+*Page last updated on: [3/17/2026]*
 
