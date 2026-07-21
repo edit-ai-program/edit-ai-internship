@@ -9,6 +9,7 @@ description:
 <div class="dropdown">
   <button class="dropbtn">Select Year</button>
   <div class="dropdown-content">
+    <a href="#2025">2025</a>
     <a href="#2024">2024</a>
     <a href="#2023">2023</a>
     <a href="#2022">2022</a>
@@ -16,6 +17,22 @@ description:
     <a href="#2020">2020</a>
   </div>
 </div>
+---
+
+## <a id="2025">2025</a>
+
+| Readings | Video Link | Presenters | Description |
+|----------|------------|------------|-------------|
+| **-** | [Video 1](https://youtu.be/a4u9Q7fFRmk) | Joshua Levy and Louis Vaickus | Program introduction, overview of pathology, and an introduction to machine learning. |
+| **-** [1](https://link.springer.com/article/10.1186/s13040-023-00338-w) [2](https://www.nature.com/articles/s41586-024-07618-3) [3](https://www.ycombinator.com/rfs) [4](https://guardanthealth.com/) | [Video 2](https://youtu.be/WGGi3l99kOU) | Zarif Azher and Sean Gordon | Multimodal modeling, research entrepreneurship, and circulating tumor DNA (ctDNA) detection in cancer. |
+| **-** | [Video 3](https://youtu.be/EHf_3MOmSxM) | Hideki Furuya and Marietta | AI applications for bladder cancer prediction and treatment, and DNA methylation field effects in melanogenesis. |
+| **-** [1](https://doi.org/10.1017/S0033291724001296) [2](https://doi.org/10.1016/j.psychres.2024.116097) | [Video 4](https://youtu.be/1pxy5uzyspc) | Monica Dimambro and Joshua Levy | Natural language processing for veteran mental health and an introduction to computational pathology. |
+| **-** [1](https://www.nature.com/articles/s41568-023-00599-x) [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC11170686/) | [Video 5](https://youtu.be/ACys228C1zQ) | Paul Pharoah and Ken Lau | Polygenic cancer risk models and the biological hallmarks of precancer. |
+| **-** [1](https://proscia.com/precision-medicine/) [2](https://www.biorxiv.org/content/10.1101/2024.01.05.574362v1.full) | [Video 6](https://youtu.be/mHnQ_D-39VY) | Nathan Buchbinder and Harsimran Kaur | Precision medicine in pathology and molecular mapping of stromal morphology in colorectal cancer. |
+| **-** [1](https://www.nature.com/articles/s41587-025-02584-1) [2](https://orcid.org/) [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554) [4](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453) | [Video 7](https://youtu.be/zL_yriS-clk) | Dennis Hazelett and Louis Vaickus | Scientific writing, research communication, and preparing presentations and manuscripts. |
+| **-** [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC5451111/) [2](https://www.nature.com/articles/s42003-023-04761-x) | [Video 8](https://youtu.be/nv5oDv9aTvA) | Rishy D., Vismay R., and Kyle Coleman | Neurotoxic metals in ALS pathogenesis and AI applications in spatial omics. |
+| **-** [1](https://www.sciencedirect.com/science/article/pii/S1361841521003339) [2](https://pmc.ncbi.nlm.nih.gov/) | [Video 9](https://youtu.be/ACMLaGwVPzI) | Indrani Bhattacharya and Kevin Cornell | Medical image detection and segmentation, and environmental risk factors for ALS using spatial omics. |
+| **-** [1](https://www.nature.com/articles/s41591-024-02857-3) [2](https://www.sciencedirect.com/science/article/pii/S1361841519301045) [3](https://www.sciencedirect.com/science/article/pii/S0893395225001644) | [Video 10](https://youtu.be/pcXLSyEXykQ) | Vivek Pujara | Deep learning methods for spatial analysis in cancer research, followed by summer preparation and office hours. |
 
 ---
 
