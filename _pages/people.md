@@ -17,7 +17,7 @@ lab_types: ["Current","Previous"]
   <label for="year-select" class="text-lg font-semibold">Select Year: </label>
   <select id="year-select" class="p-2 border border-gray-300 rounded">
     <option value="">All Years</option>
-    {% for year in (2020..2024) reversed %}
+    {% for year in (2020..2026) reversed %}
       <option value="{{ year }}">{{ year }}</option>
     {% endfor %}
   </select>
