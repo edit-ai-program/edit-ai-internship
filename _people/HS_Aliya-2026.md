@@ -4,7 +4,7 @@ title: Aliya
 img: 
 profile:
   align: right
-  image: profile:
+  image: blank_profile.png
 news: false
 social: false
 type: "High School Summer"

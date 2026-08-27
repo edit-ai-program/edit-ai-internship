@@ -21,3 +21,5 @@ group :jekyll_plugins do
     gem 'htmlbeautifier'
 end
 
+
+gem "observer", "~> 0.1.2"
