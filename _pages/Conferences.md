@@ -10,18 +10,34 @@ horizontal: false
 > <text> The EDIT AI summer internship concludes with a large conference, where students have the opprotunity to share their projects in breakout roooms with the Cancer Center at Dartmouth. These are the websites and videos from the past end of summer conferences. </text>
 
 <br>
+## 2026
+[Visit 2026 Conference Website](https://edit-ai-program.github.io/virtual_conference_26/) 
+
+
+### Conference Video
+<div class="flex-container">
+  <iframe 
+    src="https://www.youtube.com/embed/F3nB336eftk" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe> <!-- Replace VIDEO_ID -->
+</div>
+
+---
+
+<br>
 ## 2025
 [Visit 2025 Conference Website](https://jlevy44.github.io/EDIT_AI_Virtual_Conference_25/) 
 <text>Password: edit2025</text> <!-- Replace # with the actual link -->
 
-### Conference Video: to be uploaded
-<!--<div class="flex-container">
+### Conference Video
+<div class="flex-container">
   <iframe 
-    src="https://www.youtube.com/embed/lDDHeCcOe50" 
+    src="https://www.youtube.com/embed/vNMLQ85HqKo" 
     frameborder="0" 
     allowfullscreen>
   </iframe> <!-- Replace VIDEO_ID -->
-<!--</div>-->
+</div>
 ---
 
 <br>

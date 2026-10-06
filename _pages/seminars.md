@@ -9,6 +9,7 @@ description:
 <div class="dropdown">
   <button class="dropbtn">Select Year</button>
   <div class="dropdown-content">
+    <a href="#2026">2026</a>
     <a href="#2025">2025</a>
     <a href="#2024">2024</a>
     <a href="#2023">2023</a>
@@ -18,7 +19,24 @@ description:
   </div>
 </div>
 ---
+## <a id="2026">2026</a>
 
+| Readings | Video Link | Presenters | Description |
+|----------|------------|------------|-------------|
+| **-** | [Video 1](https://youtu.be/-s3X2olJISk) | Joshua Levy and Louis Vaickus | Program overview and an introduction to pathology. |
+| **-** | [Video 2](https://youtu.be/2BYOSj4Ng8k) | Xiaoying Liu and Anvith Kakkera | Introduction to cytopathology fundamentals and AI applications in thyroid cytopathology. |
+| **-** | [Video 3](https://youtu.be/qHXjZ8-yZVg) | Ming Yu and Thanosan Prathifkumar | Anti-aging agents as a potential approach to cancer prevention and Bayesian neural networks for spatial transcriptomics. |
+| **-** | [Video 4](https://youtu.be/4GEtG6bg-a4) | Eric Shah and Esther Jin | Introduction to medical technology and additional research topics. |
+| **-** | [Video 5](https://youtu.be/TN6iXK60BdM) | Khang Le and Brody McNutt | Cancer and the tumor microenvironment, and approaches toward generalizable models for digital pathology. |
+| **-** | [Video 6](https://youtu.be/kxQVIyKo9Ww) | Ryan Landvater and Joshua Levy | MLPs and transformer networks, their applications to digital pathology, and approaches combining segmentation and interpretation. |
+| **-** | [Video 7](https://youtu.be/dg1Zb0qtjmU) | Pei-Chen Peng and Zarif Azher | Predicting breast cancer risk and survival outcomes, with additional research on AI and computational methods. |
+| **-** | [Video 8](https://youtu.be/ntc4AvAt0IU) | Arnav Chaphalkar and Thomas Cantore | ST-conditioned synthetic tissue patch generation and related computational approaches in pathology. |
+| **-** | [Video 9](https://youtu.be/sOW80kD91rg) | Elijah Renner, Ishan Ramrakhiani, and Danielle Hutchings | Research in progress and the pathologist’s role in modern multidisciplinary cancer care. |
+| **-** | [Video 10](https://youtu.be/dqhCfx3b88I) | Mark Zarella and Louis Vaickus | Clinical perspectives on digital and computational pathology and manuscript preparation. |
+| **-** | [Video 11](https://youtu.be/YA3BlMK1bV0) | Kyoung Jae Won and Spencer Krieger | Agentic AI systems for single-cell RNA sequencing and machine learning methods for spatial transcriptomics integration. |
+
+
+---
 ## <a id="2025">2025</a>
 
 | Readings | Video Link | Presenters | Description |
